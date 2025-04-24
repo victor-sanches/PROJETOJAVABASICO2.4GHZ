@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"joao.Ferreira.primeiraSemana"},{"l":"joao.Ferreira.segundaSemana"}];updateSearchResults();
