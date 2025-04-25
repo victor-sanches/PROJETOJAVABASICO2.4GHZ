@@ -66,7 +66,7 @@ public class Calculadora {
         }
         return (double) numeroUm / numeroDois; // Converte o numerador para double e realiza a divisão
     }
-
+ls
     public static void main(String[] args) { // Método principal que executa o programa
         Calculadora calc = new Calculadora(); // Cria um objeto da classe Calculadora
 
