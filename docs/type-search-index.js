@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"joao.Ferreira.primeiraSemana","l":"BoletimEstudantil"},{"p":"joao.Ferreira.segundaSemana","l":"Calculadora"},{"p":"<Unnamed>","l":"Comentários"},{"p":"joao.Ferreira.primeiraSemana","l":"MinhaClasse"}];updateSearchResults();
